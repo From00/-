@@ -1,3 +1,7 @@
+/*
+  CCF 201604-2 俄罗斯方块
+  http://www.cnblogs.com/from00/p/6562449.html
+*/
 #include<bits/stdc++.h>
 using namespace std;
 const int MAX=1005;

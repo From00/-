@@ -4,6 +4,8 @@
 　　在已知一个离散平方根的情况下，按照从小到大的顺序输出其他所有的离散平方根。
 
 　　在模n意义下，非负整数x的离散平方根是满足0<=r<n且r2=x(mod n)的整数r。
+  
+    求解思路见http://www.cnblogs.com/from00/p/6574130.html
 */
 
 #include<bits/stdc++.h>

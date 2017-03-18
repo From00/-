@@ -1,5 +1,5 @@
 /*
-    ccf 201609-3 炉石传说
+    CCF 201609-3 炉石传说
     http://www.cnblogs.com/from00/p/6574889.html
 */
 #include<bits/stdc++.h>
